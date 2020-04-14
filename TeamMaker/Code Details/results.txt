@@ -1,0 +1,34 @@
+Date : 2020-02-15 00:29:24
+Directory : c:\Users\david\Documents\Ongoing\Team Maker
+Total : 9 files,  570 codes, 44 comments, 91 blanks, all 705 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Java     |          8 |        536 |         44 |         90 |        670 |
+| JSON     |          1 |         34 |          0 |          1 |         35 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                         | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                            |          9 |        570 |         44 |         91 |        705 |
++--------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                     | language | code       | comment    | blank      | total      |
++--------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\david\Documents\Ongoing\Team Maker\Estado.java      | Java     |         10 |          0 |          4 |         14 |
+| c:\Users\david\Documents\Ongoing\Team Maker\Firefighter.java | Java     |         87 |          1 |         19 |        107 |
+| c:\Users\david\Documents\Ongoing\Team Maker\Graduacao.java   | Java     |         11 |          0 |          3 |         14 |
+| c:\Users\david\Documents\Ongoing\Team Maker\Months.java      | Java     |         23 |          0 |          6 |         29 |
+| c:\Users\david\Documents\Ongoing\Team Maker\Profile.java     | Java     |        103 |          4 |         12 |        119 |
+| c:\Users\david\Documents\Ongoing\Team Maker\Quadro.java      | Java     |         10 |          0 |          5 |         15 |
+| c:\Users\david\Documents\Ongoing\Team Maker\Team.java        | Java     |         35 |          0 |          9 |         44 |
+| c:\Users\david\Documents\Ongoing\Team Maker\TeamMaker.java   | Java     |        257 |         39 |         32 |        328 |
+| c:\Users\david\Documents\Ongoing\Team Maker\example.json     | JSON     |         34 |          0 |          1 |         35 |
+| Total                                                        |          |        570 |         44 |         91 |        705 |
++--------------------------------------------------------------+----------+------------+------------+------------+------------+
