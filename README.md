@@ -1,2 +1,2 @@
 # TeamMaker
-## Java program made for making random teams of firefighters. Made as a project for my fire Station
+## Program for creating random teams of firefighters. Made as a project for the fire department I volunteer in.
